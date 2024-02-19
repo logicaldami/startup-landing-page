@@ -9,7 +9,7 @@ https://engrshege.github.io/startup-landing-page/
 
 Picture Preview:
 
-![flexbox](./img/flexbox-live-preview.png)
+![startup](./img/flexbox-live-preview.png)
 
 
 
